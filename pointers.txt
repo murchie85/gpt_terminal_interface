@@ -1,0 +1,13 @@
+	I want you to point out the sentences that are wrong grammatically and has mechanical errors. 
+	Show me the sentence
+	Explain the issue
+	Show me the proposed fix i.e.
+
+	Sentence:  
+	"He say she should go to work."
+
+	Problem:  
+	Problem with tense, it should be said
+
+	Solution:  
+	"He said she should go to work"
